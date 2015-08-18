@@ -6,6 +6,7 @@ public class Greet {
 		System.out.println("Hello Git!");
 		System.out.println("Enhancement 1");
 		Utils.greet();
+		System.out.println("Another change");
 	}
 
 }
